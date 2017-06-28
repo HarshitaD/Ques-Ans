@@ -1,0 +1,129 @@
+{
+  "Paragraph 1": {
+    "Sentence: In the event of separation, a male employee will be entitled to paternity leave only upon receiving a prior approval from the immediate manager, while serving notice period.": {
+      "Answer: A male employee": [
+        "Question: Who will be entitled to paternity leave only upon receiving a prior approval from the immediate manager in the event of separation?"
+      ],
+      "Answer: A prior approval from the immediate manager, while serving notice period": [
+        "Question: In the event of separation, a male employee will be entitled to paternity leave only upon receiving what?"
+      ],
+      "Answer: Yes": [
+        "Question: Will a male employee be entitled to paternity leave only upon receiving a prior approval from the immediate manager in the event of separation?"
+      ]
+    },
+    "Sentence: Like any other leave, this leaves too will require prior approval of the immediate manager and can be combined with the Earned Leave or Compensatory Off.": {
+      "Answer: Any other leave": [
+        "Question: Like what , this leaves too will require prior approval of the immediate manager and can be combined with the Earned Leave or Compensatory Off?"
+      ],
+      "Answer: Prior approval": [
+        "Question: Like any other leave, this leaves too will require what of the immediate manager and can be combined with the Earned Leave or Compensatory Off?"
+      ],
+      "Answer: The immediate manager": [
+        "Question: Like any other leave, this leaves too will require prior approval of what and can be combined with the Earned Leave or Compensatory Off?"
+      ],
+      "Answer: Yes": [
+        "Question: Does this leave too will require prior approval of the immediate manager and can be combined with the Earned Leave or Compensatory Off like any other leave?"
+      ]
+    },
+    "Sentence: Male employees will be entitled to five working days of paternity leave when blessed with a child or in the event of adoption of a child, subject to submission of necessary documents regarding the adoption, failing which, such leave will be treated as void.": {
+      "Answer: Adoption": [
+        "Question: Male employees will be entitled to five working days of paternity leave when blessed with a child or in the event of what of a child, subject to submission of necessary documents regarding the adoption, failing which, such leave will be treated as void?"
+      ],
+      "Answer: Five working days": [
+        "Question: Male employees will be entitled to how long of paternity leave when blessed with a child or in the event of adoption of a child, subject to submission of necessary documents regarding the adoption, failing which, such leave will be treated as void?"
+      ],
+      "Answer: Male employees": [
+        "Question: What will be entitled to five working days of paternity leave when blessed with a child or in the event of adoption of a child, subject to submission of necessary documents regarding the adoption, failing which, such leave will be treated as void?"
+      ],
+      "Answer: Necessary documents": [
+        "Question: Male employees will be entitled to five working days of paternity leave when blessed with a child or in the event of adoption of a child, subject to submission of what regarding the adoption, failing which, such leave will be treated as void?"
+      ],
+      "Answer: Paternity leave": [
+        "Question: Male employees will be entitled to five working days of what when blessed with a child or in the event of adoption of a child, subject to submission of necessary documents regarding the adoption, failing which, such leave will be treated as void?"
+      ],
+      "Answer: The adoption, failing which, such leave will be treated as void": [
+        "Question: Male employees will be entitled to five working days of paternity leave when blessed with a child or in the event of adoption of a child, subject to submission of necessary documents regarding what?"
+      ]
+    },
+    "Sentence: This leave should be availed within thirty calendar days.": {
+      "Answer: Thirty calendar days": [
+        "Question: This leave should be availed within how long?"
+      ],
+      "Answer: This leave": [
+        "Question: When should be availed within thirty calendar days?",
+        "Question: What should be availed within thirty calendar days?"
+      ],
+      "Answer: Within thirty calendar days": [
+        "Question: When should this leave be availed?"
+      ],
+      "Answer: Yes": [
+        "Question: Should this leave be availed within thirty calendar days?"
+      ]
+    }
+  },
+  "Paragraph 2": {
+    "Sentence: Flexi-working is allowed for employees who wish to avail this facility, to help manage their work-life balance by scheduling their work timings in a way convenient for them to work the pre-designated nine hours daily, which is inclusive of lunch and coffee breaks.": {
+      "Answer: By scheduling their work timings in a way convenient for them to work the pre-designated nine hours daily, which is inclusive of lunch and coffee breaks": [
+        "Question: How flexi-working is allowed for employees who wish to avail this facility, to help manage their work-life balance?"
+      ],
+      "Answer: Nine hours": [
+        "Question: Flexi-working is allowed for employees who wish to avail this facility, to help manage their work-life balance by scheduling their work timings in a way convenient for them to work the pre-designated what duration daily, which is inclusive of lunch and coffee breaks?"
+      ],
+      "Answer: Of lunch and coffee breaks": [
+        "Question: What is the facility inclusive of?"
+      ],
+      "Answer: The facility": [
+        "Question: What is inclusive of lunch and coffee breaks?"
+      ],
+      "Answer: The pre-designated nine hours": [
+        "Question: Flexi-working is allowed for employees who wish to avail this facility, to help manage their work-life balance by scheduling their work timings in a way convenient for them to work what daily, which is inclusive of lunch and coffee breaks?"
+      ],
+      "Answer: Their work timings in a way convenient for them to work the pre-designated nine hours daily, which is inclusive of lunch and coffee breaks": [
+        "Question: Flexi-working is allowed for employees who wish to avail this facility, to help manage their work-life balance by scheduling what?"
+      ],
+      "Answer: Their work-life balance by scheduling their work timings in a way convenient for them to work the pre-designated nine hours daily, which is inclusive of lunch and coffee breaks": [
+        "Question: Flexi-working is allowed for employees who wish to avail this facility, to help manage what?"
+      ],
+      "Answer: Yes": [
+        "Question: Is the facility inclusive of lunch and coffee breaks?"
+      ]
+    },
+    "Sentence: However employees serving company notice period will not be eligible for work from home option.": {
+      "Answer: From home option": [
+        "Question: What do employees serving company notice period will not be eligible for work from?"
+      ],
+      "Answer: Yes": [
+        "Question: Do employees serving company notice period will not be eligible for work from home option?"
+      ]
+    },
+    "Sentence: Please find the detailed policy on the below link - https://moss.sesame.fr.world.socgen.com": {},
+    "Sentence: This arrangement has a period during the day wherein an employee must be physically present in the office premise during the core-time i.e. 1100 hours to 1600 hours.": {
+      "Answer: 1100 hours to 1600 hours": [
+        "Question: This arrangement has a period during the day wherein an employee must be physically present in the office premise during the core-time i.e. what duration?"
+      ],
+      "Answer: The core-time": [
+        "Question: This arrangement has a period during the day wherein an employee must be physically present in the office premise during what i.e. 1100 hours to 1600 hours?"
+      ],
+      "Answer: The office premise": [
+        "Question: This arrangement has a period during the day wherein an employee must be physically present in what during the core-time i.e. 1100 hours to 1600 hours?"
+      ],
+      "Answer: This arrangement": [
+        "Question: What has a period during the day wherein an employee must be physically present in the office premise during the core-time i.e. 1100 hours to 1600 hours?"
+      ]
+    },
+    "Sentence: This policy is applicable for all employed with SGGSC confirmed regular employees, contractors post 6 months of on-boarding, interns and trainee employees.": {
+      "Answer: 6 months": [
+        "Question: This policy is applicable for all employed with SGGSC confirmed regular employees, contractors post what duration of on-boarding, interns and trainee employees?"
+      ],
+      "Answer: SGGSC": [
+        "Question: This policy is applicable for all employed with which organization confirmed regular employees, contractors post 6 months of on-boarding, interns and trainee employees?"
+      ],
+      "Answer: Trainee employees": [
+        "Question: This policy is applicable for all employed with SGGSC confirmed regular employees, contractors post 6 months of on-boarding, interns and what?"
+      ],
+      "Answer: Yes": [
+        "Question: Is this policy applicable for all employed with SGGSC confirmed regular employees post 6 months of on-boarding, interns and trainee employees?"
+      ]
+    }
+  }
+}

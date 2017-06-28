@@ -1,0 +1,18 @@
+{
+    "Paragraph 1": {
+        "Sentence: Platform as a service  or application platform as a service  is a category of cloud computing services that provides a platform allowing customers to develop, run, and manage applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app. PaaS can be delivered in two ways: as a public cloud service from a provider, where the consumer controls software deployment with minimal configuration options, and the provider provides the networks, servers, storage, operating system , 'middleware' , database and other services to host the consumer's application; or as a private service  inside the firewall, or as software deployed on a public infrastructure as a service.": {
+            "Answer: An app": [
+                "Question: **IN-HOUSE**Platform as a service  or application platform as a service  is a category of cloud computing services that provides a platform allowing customers to develop, run, and manage applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching what?"
+            ],
+            "Answer: Applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app": [
+                "Question: **IN-HOUSE**Platform as a service  or application platform as a service  is a category of cloud computing services that provides a platform allowing customers to develop, run, and manage what?"
+            ],
+            "Answer: Customers to develop, run, and manage applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app": [
+                "Question: **IN-HOUSE**Platform as a service  or application platform as a service  is a category of cloud computing services that provides a platform allowing what?"
+            ],
+            "Answer: The infrastructure typically associated with developing and launching an app": [
+                "Question: **IN-HOUSE**Platform as a service  or application platform as a service  is a category of cloud computing services that provides a platform allowing customers to develop, run, and manage applications without the complexity of building and maintaining what?"
+            ]
+        }
+    }
+}

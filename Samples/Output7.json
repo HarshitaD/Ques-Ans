@@ -1,0 +1,57 @@
+{
+    "Paragraph 1": {
+        "Sentence: Consideration": {}
+    },
+    "Paragraph 2": {
+        "Sentence: In consideration for the rights granted to you under these Terms, you grant us the right  to allow the Spotify Service to use the processor, bandwidth and storage hardware on your Device in order to facilitate the operation of the Service,  to provide advertising and other information to you, if you subscribe to the Free Service, and  to allow our business partners to do the same.": {}
+    },
+    "Paragraph 3": {
+        "Sentence: You grant Spotify a non-exclusive, transferable, sub-licensable, royalty-free, perpetual, worldwide licence to use, reproduce, make available to the public, publish, translate and distribute any User Content that you post on or otherwise provide through the Spotify Service.": {
+            "Answer: Any User Content that you post on or otherwise provide through the Spotify Service": [
+                "Question: **IN-HOUSE**You grant Spotify a non-exclusive, transferable, sub-licensable, royalty-free, perpetual, worldwide licence to use, reproduce, make available to the public, publish, translate and distribute what?"
+            ],
+            "Answer: Spotify": [
+                "Question: **IN-HOUSE**You grant who a non-exclusive, transferable, sub-licensable, royalty-free, perpetual, worldwide licence to use, reproduce, make available to the public, publish, translate and distribute any User Content that you post on or otherwise provide through the Spotify Service?"
+            ]
+        }
+    },
+    "Paragraph 4": {
+        "Sentence: Any failure by Spotify to enforce these Terms or any provision thereof shall not waive Spotify's right to do so.": {
+            "Answer: Any failure by Spotify to enforce these Terms or any provision": [
+                "Question: What thereof shall not waive Spotify's right to do so?"
+            ],
+            "Answer: Spotify": [
+                "Question: **IN-HOUSE**Any failure by which location to enforce these Terms or any provision thereof shall not waive Spotify's right to do so?"
+            ],
+            "Answer: Spotify's right to do so": [
+                "Question: Whose right to do so shall any failure by Spotify to enforce these Terms or any provision thereof not waive?",
+                "Question: What shall any failure by Spotify to enforce these Terms or any provision thereof not waive?"
+            ],
+            "Answer: Yes": [
+                "Question: Shall any failure by Spotify to enforce these Terms or any provision thereof not waive Spotify's right to do so?"
+            ]
+        },
+        "Sentence: These Terms are not intended to grant rights to anyone except you and Spotify, and in no event shall these Terms create any third party beneficiary rights.": {
+            "Answer: Not intended to grant rights to anyone except you and Spotify beneficiary rights": [
+                "Question: What are these Terms?"
+            ],
+            "Answer: Shall these Terms create any third party": [
+                "Question: What are these Terms not intended to in no event beneficiary rights?"
+            ],
+            "Answer: These Terms": [
+                "Question: What are not intended to in no event shall these Terms create any third party beneficiary rights?",
+                "Question: What are not intended to grant rights to anyone except you and Spotify beneficiary rights?"
+            ],
+            "Answer: These Terms are not": [
+                "Question: **IN-HOUSE**What intended to grant rights to anyone except you and Spotify, and in no event shall these Terms create any third party beneficiary rights?"
+            ],
+            "Answer: To grant rights to anyone except you and Spotify, and in no event shall these Terms create any third party beneficiary rights": [
+                "Question: **IN-HOUSE**These Terms are not intended what?"
+            ],
+            "Answer: Yes": [
+                "Question: Are these Terms not intended to grant rights to anyone except you and Spotify beneficiary rights?",
+                "Question: Are these Terms not intended to in no event shall these Terms create any third party beneficiary rights?"
+            ]
+        }
+    }
+}

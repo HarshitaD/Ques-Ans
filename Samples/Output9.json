@@ -1,0 +1,181 @@
+{
+    "Paragraph 1": {
+        "Sentence: Raymond hesitated, glanced at me, and kept the cigarette in his mouth.": {
+            "Answer: At me": [
+                "Question: Who did Raymond glance at?"
+            ],
+            "Answer: In his mouth": [
+                "Question: What did Raymond keep the cigarette in?"
+            ],
+            "Answer: Raymond": [
+                "Question: Who glanced at me?",
+                "Question: **IN-HOUSE**Who hesitated, glanced at me, and kept the cigarette in his mouth?",
+                "Question: Who hesitated?",
+                "Question: Who kept the cigarette in his mouth?"
+            ],
+            "Answer: The cigarette": [
+                "Question: What did Raymond keep in his mouth?"
+            ],
+            "Answer: The cigarette in his mouth": [
+                "Question: **IN-HOUSE**Raymond hesitated, glanced at me, and kept what?"
+            ],
+            "Answer: Yes": [
+                "Question: Did Raymond hesitate?",
+                "Question: Did Raymond keep the cigarette in his mouth?",
+                "Question: Did Raymond glance at me?"
+            ]
+        },
+        "Sentence: Raymond made a wry face, but said nothing for a moment.": {
+            "Answer: A wry face": [
+                "Question: What did Raymond make?"
+            ],
+            "Answer: Nothing for a moment": [
+                "Question: What did Raymond say?",
+                "Question: **IN-HOUSE**Raymond made a wry face, but said what?"
+            ],
+            "Answer: Raymond": [
+                "Question: Who made a wry face?",
+                "Question: **IN-HOUSE**Who made a wry face, but said nothing for a moment?",
+                "Question: Who said nothing for a moment?"
+            ],
+            "Answer: Yes": [
+                "Question: Did Raymond make a wry face?",
+                "Question: Did Raymond say nothing for a moment?"
+            ]
+        },
+        "Sentence: Take that cigarette out of your mouth when you’re talking to me,” the policeman said gruffly.": {
+            "Answer: That cigarette out of your mouth when you’re talking to me,” the policeman said gruffly": [
+                "Question: **IN-HOUSE**Take what?"
+            ]
+        },
+        "Sentence: The cigarette shot from his lips and dropped a yard away.": {
+            "Answer: A yard": [
+                "Question: What did the cigarette shot from the policeman's lips and drop away?",
+                "Question: What did the cigarette shot from his lips and drop away?"
+            ],
+            "Answer: A yard away": [
+                "Question: **IN-HOUSE**The cigarette shot from his lips and dropped what?"
+            ],
+            "Answer: The cigarette shot from the policeman's lips and": [
+                "Question: What dropped a yard away?"
+            ],
+            "Answer: Yes": [
+                "Question: Did the cigarette shot from his lips and drop a yard away?",
+                "Question: Did the cigarette shot from the policeman's lips and drop a yard away?"
+            ]
+        },
+        "Sentence: The policeman promptly swung his arm and gave him a good hard smack on the left cheek.": {
+            "Answer: Him a good hard smack on the left cheek": [
+                "Question: **IN-HOUSE**The policeman promptly swung his arm and gave what?"
+            ],
+            "Answer: His arm": [
+                "Question: What did the policeman promptly swing?"
+            ],
+            "Answer: The policeman": [
+                "Question: Who promptly swung his arm?",
+                "Question: Who promptly gave him a good hard smack on the left cheek?"
+            ],
+            "Answer: Yes": [
+                "Question: Did the policeman promptly swing his arm?",
+                "Question: Did the policeman promptly give him a good hard smack on the left cheek?"
+            ]
+        },
+        "Sentence: Then in a humble tone he asked if he might not pick up his cigarette.": {
+            "Answer: In a humble tone": [
+                "Question: What did Raymond ask if he might not pick up his cigarette in?",
+                "Question: What did he ask if he might not pick up his cigarette in?"
+            ],
+            "Answer: Raymond": [
+                "Question: Who asked if he might not pick up his cigarette in a humble tone?"
+            ],
+            "Answer: Yes": [
+                "Question: Did Raymond ask if he might not pick up his cigarette in a humble tone?",
+                "Question: Did he ask if he might not pick up his cigarette in a humble tone?"
+            ]
+        },
+        "Sentence: Your name?” Raymond gave his name. “": {
+            "Answer: Raymond": [
+                "Question: **IN-HOUSE**Your name?” who gave his name.?"
+            ]
+        },
+        "Sentence: “": {}
+    },
+    "Paragraph 2": {
+        "Sentence: The officer said, ``Yes,'' and added: ``But do not you forget next time that we do not stand for any nonsense, not from guys like you.''": {
+            "Answer: , ``Yes,'' and added: ``But do not you forget next time that we do not stand for any nonsense, not from guys like you.''": [
+                "Question: **IN-HOUSE**The officer said what?"
+            ],
+            "Answer: The officer": [
+                "Question: **IN-HOUSE**What said, ``Yes,'' and added: ``But do not you forget next time that we do not stand for any nonsense, not from guys like you.''"
+            ]
+        },
+        "Sentence: The officer said, “": {
+            "Answer: , “": [
+                "Question: **IN-HOUSE**The officer said what?"
+            ],
+            "Answer: The officer": [
+                "Question: **IN-HOUSE**What said,?"
+            ]
+        },
+        "Sentence: Yes,” and added: “": {}
+    },
+    "Paragraph 3": {
+        "Sentence: He hit me, the coward.": {
+            "Answer: Me, the coward": [
+                "Question: **IN-HOUSE**He hit what?"
+            ]
+        },
+        "Sentence: He's a pimp.''": {
+            "Answer: A pimp.''": [
+                "Question: **IN-HOUSE**He's what?"
+            ]
+        },
+        "Sentence: Meanwhile the girl went on sobbing and repeating: “": {
+            "Answer: And repeating: “": [
+                "Question: **IN-HOUSE**Meanwhile the girl went on sobbing what?"
+            ],
+            "Answer: Meanwhile the girl": [
+                "Question: **IN-HOUSE**What went on sobbing and repeating:?"
+            ]
+        }
+    },
+    "Paragraph 4": {
+        "Sentence: “Excuse me, officer,” Raymond put in, “but is that in order, calling a man a pimp in the presence of witnesses?”": {
+            "Answer: A man a pimp in the presence of witnesses?”": [
+                "Question: **IN-HOUSE**“Excuse me, officer,” Raymond put in, “but is that in order, calling what?"
+            ],
+            "Answer: Me, officer,” Raymond put in, “but is that in order, calling a man a pimp in the presence of witnesses?”": [
+                "Question: **IN-HOUSE**“Excuse what?"
+            ],
+            "Answer: Raymond": [
+                "Question: **IN-HOUSE**“Excuse me, officer,” who put in, “but is that in order, calling a man a pimp in the presence of witnesses?”"
+            ],
+            "Answer: That in order, calling a man a pimp in the presence of witnesses?”": [
+                "Question: **IN-HOUSE**“Excuse me, officer,” Raymond put in, “but is what?"
+            ]
+        }
+    },
+    "Paragraph 5": {
+        "Sentence: The policeman told him to shut his trap.": {
+            "Answer: Him to shut his trap": [
+                "Question: **IN-HOUSE**The policeman told what?"
+            ],
+            "Answer: His trap": [
+                "Question: What did the policeman tell him to shut?",
+                "Question: What did the policeman tell Raymond to shut?"
+            ],
+            "Answer: Raymond": [
+                "Question: Who did the policeman tell to shut his trap?"
+            ],
+            "Answer: The policeman": [
+                "Question: Who told him to shut his trap?",
+                "Question: Who told Raymond to shut his trap?",
+                "Question: **IN-HOUSE**What told him to shut his trap?"
+            ],
+            "Answer: Yes": [
+                "Question: Did the policeman tell Raymond to shut his trap?",
+                "Question: Did the policeman tell him to shut his trap?"
+            ]
+        }
+    }
+}

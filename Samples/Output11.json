@@ -1,0 +1,81 @@
+{
+    "Paragraph 1": {
+        "Sentence: Founded on 15 January 2001, it is the first edition of Wikipedia and, as of June 2017, has the most articles of any of the editions. As of June 2017, 12% of articles in all Wikipedias belong to the English-language edition.": {
+            "Answer: 15 January 2001": [
+                "Question: **IN-HOUSE**Founded on which day/month/year , it is the first edition of Wikipedia and, as of June 2017, has the most articles of any of the editions?"
+            ],
+            "Answer: June 2017": [
+                "Question: **IN-HOUSE**Founded on 15 January 2001, it is the first edition of Wikipedia and, as of which day/month/year , has the most articles of any of the editions?"
+            ],
+            "Answer: The most articles of any of the editions": [
+                "Question: **IN-HOUSE**Founded on 15 January 2001, it is the first edition of Wikipedia and, as of June 2017, has what?"
+            ],
+            "Answer: Wikipedia": [
+                "Question: **IN-HOUSE**Founded on 15 January 2001, it is the first edition of which location and, as of June 2017, has the most articles of any of the editions?"
+            ]
+        },
+        "Sentence: The English Wikipedia is the English-language edition of the free online encyclopedia Wikipedia.": {
+            "Answer: Of the free online encyclopedia Wikipedia": [
+                "Question: Who is the English Wikipedia the English-language edition of?"
+            ],
+            "Answer: The English Wikipedia": [
+                "Question: Who is the English-language edition of the free online encyclopedia Wikipedia?"
+            ],
+            "Answer: Wikipedia": [
+                "Question: **IN-HOUSE**The English Wikipedia is the English-language edition of the free online encyclopedia which location?"
+            ],
+            "Answer: Yes": [
+                "Question: Is the English Wikipedia the English-language edition of the free online encyclopedia Wikipedia?"
+            ]
+        },
+        "Sentence: This share has gradually declined from more than 50 percent in 2003, due to the growth of Wikipedias in other languages. There are 5,422,510 articles on the site . In October 2015, the combined text of the English Wikipedia's articles totalled 11.5 gigabytes when compressed. On 1 November 2015, the English Wikipedia announced it had reached 5,000,000 articles and ran a special logo to reflect the milestone.": {
+            "Answer: 2003": [
+                "Question: **IN-HOUSE**This share has gradually declined from more than 50 percent in which day/month/year , due to the growth of Wikipedias in other languages?"
+            ],
+            "Answer: More than 50": [
+                "Question: **IN-HOUSE**This share has gradually declined from how many percent in 2003, due to the growth of Wikipedias in other languages?"
+            ],
+            "Answer: Wikipedias": [
+                "Question: **IN-HOUSE**This share has gradually declined from more than 50 percent in 2003, due to the growth of which location in other languages?"
+            ]
+        }
+    },
+    "Paragraph 2": {
+        "Sentence: Community-produced news publications include The Signpost.": {
+            "Answer: Community-produced news publications": [
+                "Question: What include The Signpost?",
+                "Question: **IN-HOUSE**What include The Signpost?"
+            ],
+            "Answer: The Signpost": [
+                "Question: **IN-HOUSE**Community-produced news publications include what?",
+                "Question: What do community-produced news publications include?"
+            ],
+            "Answer: Yes": [
+                "Question: Do community-produced news publications include The Signpost?"
+            ]
+        },
+        "Sentence: The Simple English Wikipedia is a variation in which most of the articles use only basic English vocabulary.": {
+            "Answer: A variation": [
+                "Question: What is the Simple English Wikipedia in which most of the articles use only basic English vocabulary?"
+            ],
+            "Answer: A variation in which most of the articles use only basic English vocabulary": [
+                "Question: **IN-HOUSE**The Simple English Wikipedia is what?"
+            ],
+            "Answer: The Simple English Wikipedia": [
+                "Question: **IN-HOUSE**What is a variation in which most of the articles use only basic English vocabulary?",
+                "Question: What is a variation in which most of the articles use only basic English vocabulary?"
+            ],
+            "Answer: Yes": [
+                "Question: Is the Simple English Wikipedia a variation in which most of the articles use only basic English vocabulary?"
+            ]
+        },
+        "Sentence: There is also the Old English  Wikipedia .": {
+            "Answer: Also the Old English  Wikipedia ": [
+                "Question: **IN-HOUSE**There is what?"
+            ],
+            "Answer: There": [
+                "Question: **IN-HOUSE**What is also the Old English  Wikipedia?"
+            ]
+        }
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "Paragraph 1": {
+        "Sentence: Flexi-working is allowed for employees who wish to avail this facility, to help manage their work-life balance by scheduling their work timings in a way convenient for them to work the pre-designated nine  hours daily, which is inclusive of lunch and coffee breaks.": {
+            "Answer: By scheduling their work timings in a way convenient for them to work the pre-designated nine  hours daily, which is inclusive of lunch and coffee breaks": [
+                "Question: **IN-HOUSE**How working flexi- is allowed for employees who wish to avail this facility, to help manage their work-life balance?"
+            ],
+            "Answer: Nine  hours": [
+                "Question: **IN-HOUSE**Flexi-working is allowed for employees who wish to avail this facility, to help manage their work-life balance by scheduling their work timings in a way convenient for them to work the pre-designated when daily, which is inclusive of lunch and coffee breaks?"
+            ],
+            "Answer: Their work timings in a way convenient for them to work the pre-designated nine  hours daily, which is inclusive of lunch and coffee breaks": [
+                "Question: **IN-HOUSE**Flexi-working is allowed for employees who wish to avail this facility, to help manage their work-life balance by scheduling what?"
+            ],
+            "Answer: Their work-life balance by scheduling their work timings in a way convenient for them to work the pre-designated nine  hours daily, which is inclusive of lunch and coffee breaks": [
+                "Question: **IN-HOUSE**Flexi-working is allowed for employees who wish to avail this facility, to help manage what?"
+            ]
+        },
+        "Sentence: This arrangement has a period during the day wherein an employee must be physically present in the office premise during the core-time i. e. 1100 hours to 1600 hours.": {
+            "Answer: 1600 hours": [
+                "Question: **IN-HOUSE**This arrangement has a period during the day wherein an employee must be physically present in the office premise during the core-time i. e. 1100 hours to when?"
+            ],
+            "Answer: A period during the day wherein": [
+                "Question: When does this arrangement have an employee must be physically present in the office premise during the core-time i. e. 1100 hours to 1600 hours?"
+            ],
+            "Answer: An employee": [
+                "Question: Who does this arrangement have a period during the day wherein must be physically present in the office premise during the core-time i. e. 1100 hours to 1600 hours?"
+            ],
+            "Answer: An employee must be physically present in the office premise during the core-time i. e. 1100 hours to 1600 hours": [
+                "Question: What does this arrangement have a period during the day wherein in?"
+            ],
+            "Answer: During the core-time i. e. 1100 hours to 1600 hours": [
+                "Question: What does this arrangement have a period during the day wherein an employee must be physically present in the office premise during?"
+            ],
+            "Answer: E. 1100 hours to": [
+                "Question: **IN-HOUSE**This arrangement has a period during the day wherein an employee must be physically present in the office premise during the core-time i. when 1600 hours?"
+            ],
+            "Answer: In the office premise": [
+                "Question: What does this arrangement have a period during the day wherein an employee must be physically present in during the core-time i. e. 1100 hours to 1600 hours?"
+            ],
+            "Answer: The day": [
+                "Question: **IN-HOUSE**This arrangement has a period during what amount of duration wherein an employee must be physically present in the office premise during the core-time i. e. 1100 hours to 1600 hours?"
+            ],
+            "Answer: This arrangement": [
+                "Question: What has a period during the day wherein an employee must be physically present in the office premise during the core-time i. e. 1100 hours to 1600 hours?"
+            ],
+            "Answer: Yes": [
+                "Question: Does this arrangement have a period during the day wherein an employee must be physically present in the office premise during the core-time i. e. 1100 hours to 1600 hours?"
+            ]
+        },
+        "Sentence: This policy is applicable for all employed with SGGSC.": {
+            "Answer: All employed with SGGSC": [
+                "Question: **IN-HOUSE**This policy is applicable for what?"
+            ],
+            "Answer: For all employed with SGGSC": [
+                "Question: What is this policy applicable for?"
+            ],
+            "Answer: This policy": [
+                "Question: **IN-HOUSE**What is applicable for all employed with SGGSC?",
+                "Question: What is applicable for all employed with SGGSC?"
+            ],
+            "Answer: Yes": [
+                "Question: Is this policy applicable for all employed with SGGSC?"
+            ]
+        }
+    },
+    "Paragraph 2": {
+        "Sentence: . confirmed regular employees": {
+            "Answer: ": [
+                "Question: **IN-HOUSE**What confirmed regular employees?"
+            ],
+            "Answer: Regular employees": [
+                "Question: **IN-HOUSE**. confirmed what?"
+            ]
+        }
+    },
+    "Paragraph 3": {
+        "Sentence: .": {},
+        "Sentence: contractors post 6 months of on-boarding.": {
+            "Answer: 6 months": [
+                "Question: **IN-HOUSE**Contractors post what amount of duration of on-boarding?"
+            ],
+            "Answer: 6 months of on-boarding": [
+                "Question: When do contractors post?",
+                "Question: How many months of on-boarding do contractors post?"
+            ],
+            "Answer: Contractors": [
+                "Question: Who post 6 months of on-boarding?"
+            ],
+            "Answer: Of on-boarding": [
+                "Question: What do contractors post 6 months of?"
+            ],
+            "Answer: Yes": [
+                "Question: Do contractors post 6 months of on-boarding?"
+            ]
+        }
+    },
+    "Paragraph 4": {
+        "Sentence: .": {},
+        "Sentence: interns and .": {}
+    },
+    "Paragraph 5": {
+        "Sentence: .": {},
+        "Sentence: trainee employees.": {
+            "Answer: ": [
+                "Question: **IN-HOUSE**Trainee employees what?"
+            ],
+            "Answer: Trainee": [
+                "Question: **IN-HOUSE**What employees?"
+            ]
+        }
+    },
+    "Paragraph 6": {
+        "Sentence: However employees serving company notice period will not be eligible for work from home option.": {
+            "Answer: Company notice period will not be eligible for work from home option": [
+                "Question: **IN-HOUSE**However employees serving what?"
+            ],
+            "Answer: Employees serving company": [
+                "Question: Who notice period will not be eligible for work from home option?"
+            ],
+            "Answer: For work": [
+                "Question: What do employees serving company notice period will not be eligible for from home option?"
+            ],
+            "Answer: From home option": [
+                "Question: What do employees serving company notice period will not be eligible for work from?"
+            ],
+            "Answer: Period": [
+                "Question: When do employees serving company notice will not be eligible for work from home option?"
+            ],
+            "Answer: Period will not be eligible for work from home option": [
+                "Question: What do employees serving company notice for?"
+            ],
+            "Answer: Yes": [
+                "Question: Do employees serving company notice period will not be eligible for work from home option?"
+            ]
+        },
+        "Sentence: Please find the detailed policy on the below link. https://moss.sesame.fr.world.socgen.com": {
+            "Answer: Please": [
+                "Question: **IN-HOUSE**What find the detailed policy on the below link. https://moss.sesame.fr.world.socgen.com?"
+            ],
+            "Answer: The detailed policy on the below link. https://moss.sesame.fr.world.socgen.com": [
+                "Question: **IN-HOUSE**Please find what?"
+            ]
+        }
+    }
+}

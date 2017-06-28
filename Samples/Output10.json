@@ -1,0 +1,58 @@
+{
+    "Paragraph 1": {
+        "Sentence: The Common Core State Standards Initiative is an educational initiative in the United States that details what K12 students should know in English language arts and mathematics at the end of each grade.": {
+            "Answer: An educational initiative in the United States": [
+                "Question: What is the Common Core State Standards Initiative that details what K12 students should know in English language arts and mathematics at the end of each grade?"
+            ],
+            "Answer: At the end of each grade": [
+                "Question: What is the Common Core State Standards Initiative an educational initiative in the United States that details what K12 students should know in English language arts and mathematics at?",
+                "Question: Where is the Common Core State Standards Initiative an educational initiative in the United States that details what K12 students should know in English language arts and mathematics?"
+            ],
+            "Answer: In English language arts and mathematics": [
+                "Question: What is the Common Core State Standards Initiative an educational initiative in the United States that details what K12 students should know in at the end of each grade?"
+            ],
+            "Answer: In English language arts and mathematics at the end of each grade": [
+                "Question: **IN-HOUSE**The Common Core State Standards Initiative is an educational initiative in the United States that details what K12 students should know what?"
+            ],
+            "Answer: K12": [
+                "Question: **IN-HOUSE**The Common Core State Standards Initiative is an educational initiative in the United States that details what which location students should know in English language arts and mathematics at the end of each grade?"
+            ],
+            "Answer: That details what K12 students should know in English language arts and mathematics at the end of each grade": [
+                "Question: What is the Common Core State Standards Initiative an educational initiative in the United States in?"
+            ],
+            "Answer: The Common Core State Standards Initiative": [
+                "Question: What is an educational initiative in the United States that details what K12 students should know in English language arts and mathematics at the end of each grade?"
+            ],
+            "Answer: The United States": [
+                "Question: **IN-HOUSE**The Common Core State Standards Initiative is an educational initiative in which location that details what K12 students should know in English language arts and mathematics at the end of each grade?"
+            ]
+        },
+        "Sentence: The initiative is sponsored by the National Governors Association  and the Council of Chief State School Officers  and seeks to establish consistent educational standards across the states as well as ensure that students graduating from high school are prepared to enter credit-bearing courses at two- or four-year college programs or to enter the workforce.": {
+            "Answer: Four-year": [
+                "Question: **IN-HOUSE**The initiative is sponsored by the National Governors Association  and the Council of Chief State School Officers  and seeks to establish consistent educational standards across the states as well as ensure that students graduating from high school are prepared to enter credit-bearing courses at two- or which day/month/year college programs or to enter the workforce?"
+            ],
+            "Answer: Two- or": [
+                "Question: **IN-HOUSE**The initiative is sponsored by the National Governors Association  and the Council of Chief State School Officers  and seeks to establish consistent educational standards across the states as well as ensure that students graduating from high school are prepared to enter credit-bearing courses at how much four-year college programs or to enter the workforce?"
+            ]
+        }
+    },
+    "Paragraph 2": {
+        "Sentence: In the 1990s, the \"Standards & Accountability Movement\" began in the U.S. as states began writing standards  outlining what students were expected to know and to be able to do at each grade level, and  implementing assessments designed to measure whether students were meeting the standards. As part of this education reform movement, the nation's governors and corporate leaders founded Achieve, Inc. in 1996 as a bipartisan organization to raise academic standards and graduation requirements, improve assessments, and strengthen accountability in all 50 states. The initial motivation for the development of the Common Core State Standards was part of the American Diploma Project .": {
+            "Answer: Assessments designed to measure whether students were meeting the standards": [
+                "Question: **IN-HOUSE**In the 1990s, the \"Standards & Accountability Movement\" began in the U.S. as states began writing standards  outlining what students were expected to know and to be able to do at each grade level, and  implementing what?"
+            ],
+            "Answer: Standards  outlining what students were expected to know and to be able to do at each grade level, and  implementing assessments designed to measure whether students were meeting the standards": [
+                "Question: **IN-HOUSE**In the 1990s, the \"Standards & Accountability Movement\" began in the U.S. as states began writing what?"
+            ],
+            "Answer: The \"Standards & Accountability Movement": [
+                "Question: **IN-HOUSE**In the 1990s, what \" began in the U.S. as states began writing standards  outlining what students were expected to know and to be able to do at each grade level, and  implementing assessments designed to measure whether students were meeting the standards?"
+            ],
+            "Answer: The 1990s": [
+                "Question: **IN-HOUSE**In which day/month/year , the \"Standards & Accountability Movement\" began in the U.S. as states began writing standards  outlining what students were expected to know and to be able to do at each grade level, and  implementing assessments designed to measure whether students were meeting the standards?"
+            ],
+            "Answer: U.S": [
+                "Question: **IN-HOUSE**In the 1990s, the \"Standards & Accountability Movement\" began in the which location as states began writing standards  outlining what students were expected to know and to be able to do at each grade level, and  implementing assessments designed to measure whether students were meeting the standards?"
+            ]
+        }
+    }
+}

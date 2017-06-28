@@ -1,0 +1,22 @@
+<!doctype html>
+<title>A short quiz</title>
+<link rel=stylesheet type=text/css href='{{ url_for('static',filename='style_lulu.css')}}'>
+<div class=page>
+  <h1>Question Generator</h1>
+  <div class=metanav>
+
+<h4>
+Please provide the sentences to extract questions and answers from.
+</h4>
+
+<form id='userinfoform_lulu' method='post' action='input_sentences' > <!-- action is the URL you want to move to next-->
+   <p>
+   Input Sentences: <input type='text' rows='5' name='input_text' />
+   </p>
+   <p>
+   <input type='submit' value='Get Questions and Answers!' /> <!-- value is the text that will appear on the button. -->
+   </p>
+</form>
+
+</div>
+</div>

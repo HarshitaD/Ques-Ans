@@ -1,0 +1,48 @@
+Who said nothing for a moment?	Raymond made a wry face, but said nothing for a moment.	Raymond	2.472649423130529
+What did Raymond say?	Raymond made a wry face, but said nothing for a moment.	nothing for a moment	2.3791336254980298
+Who told Raymond to shut his trap?	The policeman told him to shut his trap.	the policeman	2.372293142626378
+What did Raymond make?	Raymond made a wry face, but said nothing for a moment.	a wry face	2.352514090916096
+Who kept the cigarette in his mouth?	Raymond hesitated, glanced at me, and kept the cigarette in his mouth.	Raymond	2.3379477105349045
+Who made a wry face?	Raymond made a wry face, but said nothing for a moment.	Raymond	2.318469693613538
+Who promptly gave him a good hard smack on the left cheek?	The policeman promptly swung his arm and gave him a good hard smack on the left cheek.	the policeman	2.3007088180984456
+What did Raymond keep in his mouth?	Raymond hesitated, glanced at me, and kept the cigarette in his mouth.	the cigarette	2.269646484674462
+Who glanced at me?	Raymond hesitated, glanced at me, and kept the cigarette in his mouth.	Raymond	2.1431561284358374
+What did the policeman tell Raymond to shut?	The policeman told him to shut his trap.	his trap	2.119777376739382
+What did the cigarette shot from the policeman's lips and drop away?	The cigarette shot from his lips and dropped a yard away.	a yard	2.1187529247312535
+What did Raymond keep the cigarette in?	Raymond hesitated, glanced at me, and kept the cigarette in his mouth.	in his mouth	2.076517084781482
+What did Raymond ask if he might not pick up his cigarette in?	Then in a humble tone he asked if he might not pick up his cigarette.	in a humble tone	2.0443088518214543
+What dropped a yard away?	The cigarette shot from his lips and dropped a yard away.	the cigarette shot from the policeman's lips and	2.032151517651566
+Who promptly swung his arm?	The policeman promptly swung his arm and gave him a good hard smack on the left cheek.	the policeman	2.0010327533033734
+Who gave his name?	Raymond gave his name.	Raymond	1.829978254193176
+Who's a pimp?	He's a pimp.''	the girl	1.8163374235424516
+What did Raymond give?	Raymond gave his name.	his name	1.805558287255738
+Who hesitated?	Raymond hesitated, glanced at me, and kept the cigarette in his mouth.	Raymond	1.677990296443814
+What did the policeman promptly swing?	The policeman promptly swung his arm and gave him a good hard smack on the left cheek.	his arm	1.5890029461971924
+Who does the girl's?	He's a pimp.''	a pimp	1.5321909116517625
+Did Raymond say nothing for a moment?	Raymond made a wry face, but said nothing for a moment.		1.5057110594791339
+Did Raymond make a wry face?	Raymond made a wry face, but said nothing for a moment.		1.4867565107746152
+Did Raymond keep the cigarette in his mouth?	Raymond hesitated, glanced at me, and kept the cigarette in his mouth.		1.4439866823667153
+Who did the policeman tell to shut his trap?	The policeman told him to shut his trap.	Raymond	1.3825484936995243
+Did the policeman tell Raymond to shut his trap?	The policeman told him to shut his trap.		1.3660515024343662
+Who asked if he might not pick up his cigarette in a humble tone?	Then in a humble tone he asked if he might not pick up his cigarette.	Raymond	1.2781064613705095
+Did Raymond glance at me?	Raymond hesitated, glanced at me, and kept the cigarette in his mouth.		1.2761098940394664
+Did Raymond hesitate?	Raymond hesitated, glanced at me, and kept the cigarette in his mouth.		1.1977704997252516
+What added: ``But do not you forget next time that we do not stand for any nonsense? the officer said ``Yes''?	The officer said, ``Yes,'' and added: ``But do not you forget next time that we do not stand for any nonsense, not from guys like you.''	and	1.1961084821713475
+Did the cigarette shot from the policeman's lips and drop a yard away?	The cigarette shot from his lips and dropped a yard away.		1.1811707133596374
+Who did and add: ``But do not you forget next time that we do not stand for any nonsense? said ``Yes''?	The officer said, ``Yes,'' and added: ``But do not you forget next time that we do not stand for any nonsense, not from guys like you.''	the officer	1.1582112294020313
+What did the cigarette shot from his lips and drop away?	The cigarette shot from his lips and dropped a yard away.	a yard	1.1501782541831918
+Did the policeman promptly give him a good hard smack on the left cheek?	The policeman promptly swung his arm and gave him a good hard smack on the left cheek.		1.1360908743080143
+Who did Raymond glance at?	Raymond hesitated, glanced at me, and kept the cigarette in his mouth.	at me	1.103205216410334
+Did Raymond ask if he might not pick up his cigarette in a humble tone?	Then in a humble tone he asked if he might not pick up his cigarette.		1.0959912934575509
+Did Raymond give his name?	Raymond gave his name.		1.0430265616648895
+Did the policeman promptly swing his arm?	The policeman promptly swung his arm and gave him a good hard smack on the left cheek.		0.9805112042671806
+What did the policeman tell him to shut?	The policeman told him to shut his trap.	his trap	0.9653190894322614
+What did he ask if he might not pick up his cigarette in?	Then in a humble tone he asked if he might not pick up his cigarette.	in a humble tone	0.9270437469392296
+Who told him to shut his trap?	The policeman told him to shut his trap.	the policeman	0.9059143710150728
+Does the girl's a pimp?	He's a pimp.''		0.7345797967663426
+Who does he's?	He's a pimp.''	a pimp	0.5627951704500684
+Did the cigarette shot from his lips and drop a yard away?	The cigarette shot from his lips and dropped a yard away.		0.229192287380922
+Did he ask if he might not pick up his cigarette in a humble tone?	Then in a humble tone he asked if he might not pick up his cigarette.		0.21243512375603935
+Did and add: ``But do not you forget next time that we do not stand for any nonsense? the officer said ``Yes''?	The officer said, ``Yes,'' and added: ``But do not you forget next time that we do not stand for any nonsense, not from guys like you.''		0.0947588045060912
+Did the policeman tell him to shut his trap?	The policeman told him to shut his trap.		-0.08259035147399008
+Does he's a pimp?	He's a pimp.''		-0.2138758439705335

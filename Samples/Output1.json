@@ -1,0 +1,118 @@
+{
+    "Paragraph 1": {
+        "Sentence: A galaxy is a gravitationally bound system of stars, stellar remnants, interstellar gas, dust, and dark matter.": {
+            "Answer: A galaxy": [
+                "Question: What is a gravitationally bound system of stars, stellar remnants, interstellar gas, dust, and dark matter?",
+                "Question: **IN-HOUSE**What is a gravitationally bound system of stars, stellar remnants, interstellar gas, dust, and dark matter?"
+            ],
+            "Answer: A gravitationally bound system of stars, stellar remnants, interstellar gas, dust, and dark matter": [
+                "Question: What is a galaxy?",
+                "Question: **IN-HOUSE**A galaxy is what?"
+            ],
+            "Answer: Of stars, stellar remnants, interstellar gas, dust, and dark matter": [
+                "Question: What is a galaxy a gravitationally bound system of?"
+            ],
+            "Answer: Yes": [
+                "Question: Is a galaxy a gravitationally bound system of stars, stellar remnants, interstellar gas, dust, and dark matter?"
+            ]
+        },
+        "Sentence: Galaxies range in size from dwarfs with just a few billion stars to giants with one hundred trillion stars,  each orbiting its galaxy's center of mass.": {
+            "Answer: Each orbiting galaxies range in size from's galaxy's center of mass": [
+                "Question: What are one hundred trillion stars?"
+            ],
+            "Answer: Galaxies range in size from": [
+                "Question: What dwarfs with just a few billion stars to giants with one hundred trillion stars?"
+            ],
+            "Answer: Just a few billion": [
+                "Question: **IN-HOUSE**Galaxies range in size from dwarfs with how many stars to giants with one hundred trillion stars,  each orbiting its galaxy's center of mass?"
+            ],
+            "Answer: Of mass": [
+                "Question: What are one hundred trillion stars each orbiting its galaxy's center of?",
+                "Question: What are one hundred trillion stars each orbiting galaxies range in size from's galaxy's center of?"
+            ],
+            "Answer: One hundred trillion stars": [
+                "Question: How many stars are each orbiting its galaxy's center of mass.?",
+                "Question: What are each orbiting its galaxy's center of mass.?",
+                "Question: What are each orbiting galaxies range in size from's galaxy's center of mass.?",
+                "Question: How many stars are each orbiting galaxies range in size from's galaxy's center of mass.?",
+                "Question: **IN-HOUSE**Galaxies range in size from dwarfs with just a few billion stars to giants with how much ,  each orbiting its galaxy's center of mass?"
+            ],
+            "Answer: To giants with one hundred trillion stars": [
+                "Question: What does galaxies range in size from dwarf with just a few billion stars to?"
+            ],
+            "Answer: With just a few billion stars": [
+                "Question: What does galaxies range in size from dwarf with to giants with one hundred trillion stars?"
+            ],
+            "Answer: Yes": [
+                "Question: Are one hundred trillion stars each orbiting galaxies range in size from's galaxy's center of mass.?",
+                "Question: Does galaxies range in size from dwarf with just a few billion stars to giants with one hundred trillion stars?",
+                "Question: Are one hundred trillion stars each orbiting its galaxy's center of mass.?"
+            ]
+        },
+        "Sentence: The word galaxy is derived from the Greek galaxias , literally \"milky\", a reference to the Milky Way.": {
+            "Answer: The Greek galaxias , literally \"milky\", a reference to the Milky Way": [
+                "Question: **IN-HOUSE**The word galaxy is derived from what?"
+            ],
+            "Answer: The word galaxy": [
+                "Question: **IN-HOUSE**What is derived from the Greek galaxias , literally \"milky\", a reference to the Milky Way?"
+            ]
+        }
+    },
+    "Paragraph 2": {
+        "Sentence:  Many galaxies are thought to have black holes at their active centers.": {
+            "Answer:  Many galaxies": [
+                "Question: **IN-HOUSE**What are thought to have black holes at their active centers?"
+            ],
+            "Answer: At their active centers": [
+                "Question: Where are many galaxies thought to have black holes?",
+                "Question: What are many galaxies thought to have black holes at?"
+            ],
+            "Answer: Black holes": [
+                "Question: What are many galaxies thought to have at their active centers?"
+            ],
+            "Answer: Many galaxies": [
+                "Question: What are thought to have black holes at their active centers?"
+            ],
+            "Answer: To have black holes at their active centers": [
+                "Question: **IN-HOUSE**Many galaxies are thought what?"
+            ],
+            "Answer: Yes": [
+                "Question: Are many galaxies thought to have black holes at their active centers?"
+            ]
+        },
+        "Sentence: As of March 2016, GN-z11 is the oldest and most distant observed galaxy with a comoving distance of 32 billion light-years from Earth, and observed as it existed just 400 million years after the Big Bang.": {
+            "Answer: 32 billion light": [
+                "Question: **IN-HOUSE**As of March 2016, GN-z11 is the oldest and most distant observed galaxy with a comoving distance of how much -years from Earth, and observed as it existed just 400 million years after the Big Bang?"
+            ],
+            "Answer: 400 million years": [
+                "Question: **IN-HOUSE**As of March 2016, GN-z11 is the oldest and most distant observed galaxy with a comoving distance of 32 billion light-years from Earth, and observed as it existed just what amount of duration after the Big Bang?"
+            ],
+            "Answer: March 2016": [
+                "Question: **IN-HOUSE**As of which day/month/year , GN-z11 is the oldest and most distant observed galaxy with a comoving distance of 32 billion light-years from Earth, and observed as it existed just 400 million years after the Big Bang?"
+            ]
+        },
+        "Sentence: Galaxies are categorized according to their visual morphology as elliptical,  spiral, or irregular.": {
+            "Answer: As elliptical, spiral, or irregular": [
+                "Question: What are galaxies categorized according to their visual morphology as?"
+            ],
+            "Answer: Galaxies": [
+                "Question: What are categorized according to their visual morphology as elliptical, spiral, or irregular?",
+                "Question: **IN-HOUSE**What are categorized according to their visual morphology as elliptical,  spiral, or irregular?"
+            ],
+            "Answer: Their visual morphology as elliptical,  spiral, or irregular": [
+                "Question: **IN-HOUSE**Galaxies are categorized according to what?"
+            ],
+            "Answer: Yes": [
+                "Question: Are galaxies categorized according to their visual morphology as elliptical, spiral, or irregular?"
+            ]
+        },
+        "Sentence: The Milky Way's central black hole, known as Sagittarius A*, has a mass four million times greater than the Sun.": {
+            "Answer: Four million": [
+                "Question: **IN-HOUSE**The Milky Way's central black hole, known as Sagittarius A*, has a mass how many times greater than the Sun?"
+            ],
+            "Answer: Sagittarius A": [
+                "Question: **IN-HOUSE**The Milky Way's central black hole, known as what *, has a mass four million times greater than the Sun?"
+            ]
+        }
+    }
+}

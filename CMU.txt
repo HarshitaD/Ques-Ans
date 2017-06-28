@@ -1,0 +1,3 @@
+Who just came back from the medical shop?	I just came back from the medical shop	I	0.6194967997056591
+What did I just come back from?	I just came back from the medical shop	from the medical shop	0.43898095266660264
+Did I just come back from the medical shop?	I just came back from the medical shop		-0.1918405371890226

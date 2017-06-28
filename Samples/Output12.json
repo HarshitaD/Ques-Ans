@@ -1,0 +1,62 @@
+{
+    "Paragraph 1": {
+        "Sentence: The Supreme Court today paved the way for the declaration of results of a national examination which would decide the fate of around 12 lakh students seeking to join medical and dental colleges across the country.": {
+            "Answer: 12": [
+                "Question: **IN-HOUSE**The Supreme Court today paved the way for the declaration of results of a national examination which would decide the fate of around how many lakh students seeking to join medical and dental colleges across the country?"
+            ],
+            "Answer: The way for the declaration of results of a national examination which would decide the fate of around 12 lakh students seeking to join medical and dental colleges across the country": [
+                "Question: What did today pave?"
+            ],
+            "Answer: Today": [
+                "Question: **IN-HOUSE**The Supreme Court which day/month/year paved the way for the declaration of results of a national examination which would decide the fate of around 12 lakh students seeking to join medical and dental colleges across the country?"
+            ]
+        },
+        "Sentence: The apex court stayed a May 24 interim order of the Madras High Court which had restrained the Central Board of Secondary Education from publishing the results of the National Eligibility-cum-Entrance Test of 2017.": {
+            "Answer: 2017": [
+                "Question: **IN-HOUSE**The apex court stayed a May 24 interim order of the Madras High Court which had restrained the Central Board of Secondary Education from publishing the results of the National Eligibility-cum-Entrance Test of which day/month/year?"
+            ],
+            "Answer: A May 24 interim order of the Madras High Court which had restrained the Central Board of Secondary Education from publishing the results of the National Eligibility-cum-Entrance Test of 2017": [
+                "Question: What did the apex court stay?"
+            ],
+            "Answer: From publishing the results of the National Eligibility-cum-Entrance Test of 2017": [
+                "Question: **IN-HOUSE**How stayed The apex court a May 24 interim order of the Madras High Court which had restrained the Central Board of Secondary Education?"
+            ],
+            "Answer: May 24": [
+                "Question: **IN-HOUSE**The apex court stayed a which day/month/year interim order of the Madras High Court which had restrained the Central Board of Secondary Education from publishing the results of the National Eligibility-cum-Entrance Test of 2017?"
+            ],
+            "Answer: The results of the National Eligibility-cum-Entrance Test of 2017": [
+                "Question: **IN-HOUSE**The apex court stayed a May 24 interim order of the Madras High Court which had restrained the Central Board of Secondary Education from publishing what?"
+            ]
+        }
+    },
+    "Paragraph 2": {
+        "Sentence: A vacation bench comprising Justices P C Pant and Deepak Gupta directed the authorities concerned to proceed with the process of announcing the results, subsequent counselling and admission as per the schedule fixed by the apex court.": {
+            "Answer: A vacation bench comprising Justices P C Pant and Deepak Gupta": [
+                "Question: What directed the authorities concerned to proceed with the process of announcing the results, subsequent counselling and admission as per the schedule fixed by the apex court?"
+            ],
+            "Answer: Deepak Gupta": [
+                "Question: **IN-HOUSE**A vacation bench comprising Justices P C Pant and who directed the authorities concerned to proceed with the process of announcing the results, subsequent counselling and admission as per the schedule fixed by the apex court?"
+            ],
+            "Answer: Justices P C Pant and Deepak Gupta directed the authorities concerned to proceed with the process of announcing the results, subsequent counselling and admission as per the schedule fixed by the apex court": [
+                "Question: **IN-HOUSE**A vacation bench comprising what?"
+            ],
+            "Answer: Of announcing the results, subsequent counselling and admission as per the schedule fixed by the apex court": [
+                "Question: **IN-HOUSE**How comprising A vacation bench justices P C Pant and Deepak Gupta directed the authorities concerned to proceed with the process?"
+            ],
+            "Answer: The authorities concerned to proceed with the process of announcing the results, subsequent counselling and admission as per the schedule fixed by the apex court": [
+                "Question: What did a vacation bench comprising Justices P C Pant and Deepak Gupta direct?"
+            ],
+            "Answer: The results, subsequent counselling and admission as per the schedule fixed by the apex court": [
+                "Question: **IN-HOUSE**A vacation bench comprising Justices P C Pant and Deepak Gupta directed the authorities concerned to proceed with the process of announcing what?"
+            ]
+        },
+        "Sentence: The top court said it was inclined to grant a stay on the high court's order which was indirectly ``diluting'' the schedule for NEET 2017 earlier fixed by the apex court.": {
+            "Answer: It was inclined to grant a stay on the high court's order which was indirectly ``diluting'' the schedule for NEET 2017 earlier fixed by the apex court": [
+                "Question: What did the top court say?"
+            ],
+            "Answer: NEET 2017 earlier": [
+                "Question: **IN-HOUSE**The top court said it was inclined to grant a stay on the high court's order which was indirectly ``diluting'' the schedule for which day/month/year fixed by the apex court?"
+            ]
+        }
+    }
+}

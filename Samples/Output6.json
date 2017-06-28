@@ -1,0 +1,53 @@
+{
+    "Paragraph 1": {
+        "Sentence: The Aleppo offensive , code named Operation Dawn of Victory by government forces,  was a successful military offensive launched by the Syrian Armed Forces and allied groups against rebel-held districts in Aleppo.": {
+            "Answer: A successful military offensive launched by the Syrian Armed Forces": [
+                "Question: What was the Aleppo offensive?"
+            ],
+            "Answer: Against rebel-held districts in Aleppo": [
+                "Question: What did the Aleppo offensive ally groups against?"
+            ],
+            "Answer: Aleppo": [
+                "Question: **IN-HOUSE**The Aleppo offensive , code named Operation Dawn of Victory by government forces,  was a successful military offensive launched by the Syrian Armed Forces and allied groups against rebel-held districts in which location?"
+            ],
+            "Answer: Groups": [
+                "Question: What did the Aleppo offensive ally against rebel-held districts in Aleppo?"
+            ],
+            "Answer: Groups against rebel-held districts in Aleppo": [
+                "Question: **IN-HOUSE**The Aleppo offensive , code named Operation Dawn of Victory by government forces,  was a successful military offensive launched by the Syrian Armed Forces and allied what?"
+            ],
+            "Answer: Operation Dawn": [
+                "Question: **IN-HOUSE**The Aleppo offensive , code named which law of Victory by government forces,  was a successful military offensive launched by the Syrian Armed Forces and allied groups against rebel-held districts in Aleppo?"
+            ],
+            "Answer: Operation Dawn of Victory by government forces,  was a successful military offensive launched by the Syrian Armed Forces and allied groups against rebel-held districts in Aleppo": [
+                "Question: **IN-HOUSE**The Aleppo offensive , code named what?"
+            ],
+            "Answer: The Aleppo offensive": [
+                "Question: What allied groups against rebel-held districts in Aleppo?",
+                "Question: What was a successful military offensive launched by the Syrian Armed Forces?"
+            ],
+            "Answer: Yes": [
+                "Question: Was the Aleppo offensive a successful military offensive launched by the Syrian Armed Forces?",
+                "Question: Did the Aleppo offensive ally groups against rebel-held districts in Aleppo?"
+            ]
+        },
+        "Sentence: The offensive came after the end of the moratorium on air strikes by Russia, and the Russian Armed Forces again conducted heavy air and cruise missile strikes against rebel positions throughout northwestern Syria. The offensive resulted in government forces taking control of all rebel-controlled parts of eastern and southern Aleppo, and the evacuation of the remaining rebel forces.": {
+            "Answer: Russia": [
+                "Question: **IN-HOUSE**The offensive came after the end of the moratorium on air strikes by which location , and the Russian Armed Forces again conducted heavy air and cruise missile strikes against rebel positions throughout northwestern Syria?"
+            ],
+            "Answer: Syria": [
+                "Question: **IN-HOUSE**The offensive came after the end of the moratorium on air strikes by Russia, and the Russian Armed Forces again conducted heavy air and cruise missile strikes against rebel positions throughout northwestern which location?"
+            ]
+        }
+    },
+    "Paragraph 2": {
+        "Sentence: The offensive was described as a potential turning point in the Syrian Civil War. Almost 1,200 people were killed during the operation, including more than 600 civilians, most of whom died in the rebel-held part of the city where the offensive took place, but at least 149 were also killed by rebel shelling of government-held parts of Aleppo and some died in rebel strikes on the enclave held by the Syrian Democratic Forces.": {
+            "Answer: A potential turning point in the Syrian Civil War": [
+                "Question: **IN-HOUSE**The offensive was described as what?"
+            ],
+            "Answer: The offensive": [
+                "Question: **IN-HOUSE**What was described as a potential turning point in the Syrian Civil War?"
+            ]
+        }
+    }
+}

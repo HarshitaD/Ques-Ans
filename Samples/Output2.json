@@ -1,0 +1,174 @@
+{
+    "Paragraph 1": {
+        "Sentence: Albert Camus  was a French philosopher, author, and journalist.": {
+            "Answer: A French philosopher, author, and journalist": [
+                "Question: Who was Albert Camus?"
+            ],
+            "Answer: Albert Camus": [
+                "Question: Who was a French philosopher, author, and journalist?",
+                "Question: **IN-HOUSE**Who was a French philosopher, author, and journalist?"
+            ],
+            "Answer: Yes": [
+                "Question: Was Albert Camus a French philosopher, author, and journalist?"
+            ]
+        },
+        "Sentence: He won the Nobel Prize in Literature in 1957.": {
+            "Answer: Albert Camus": [
+                "Question: Who won the Nobel Prize in Literature in 1957?"
+            ],
+            "Answer: In 1957": [
+                "Question: When did he win the Nobel Prize in Literature?",
+                "Question: When did Albert Camus win the Nobel Prize in Literature?"
+            ],
+            "Answer: In Literature": [
+                "Question: What did Albert Camus win the Nobel Prize in in 1957?",
+                "Question: What did he win the Nobel Prize in in 1957?"
+            ],
+            "Answer: The Nobel Prize": [
+                "Question: What did he win in Literature in 1957?",
+                "Question: What did Albert Camus win in Literature in 1957?"
+            ],
+            "Answer: The Nobel Prize in Literature in 1957": [
+                "Question: **IN-HOUSE**He won what?"
+            ],
+            "Answer: Yes": [
+                "Question: Did he win the Nobel Prize in Literature in 1957?",
+                "Question: Did Albert Camus win the Nobel Prize in Literature in 1957?"
+            ]
+        },
+        "Sentence: He wrote in his essay The Rebel that his whole life was devoted to opposing the philosophy of nihilism while still delving deeply into individual freedom.": {
+            "Answer: Albert Camus": [
+                "Question: Who wrote in his essay The Rebel that his whole life was devoted to opposing the philosophy of nihilism while still delving deeply into individual freedom?"
+            ],
+            "Answer: In his essay The Rebel": [
+                "Question: What did he write in that his whole life was devoted to opposing the philosophy of nihilism while still delving deeply into individual freedom?",
+                "Question: What did Albert Camus write in that his whole life was devoted to opposing the philosophy of nihilism while still delving deeply into individual freedom?"
+            ],
+            "Answer: Into individual freedom": [
+                "Question: What did he write in his essay The Rebel that his whole life was devoted to opposing the philosophy of nihilism while still delving deeply into?",
+                "Question: What did Albert Camus write in his essay The Rebel that his whole life was devoted to opposing the philosophy of nihilism while still delving deeply into?"
+            ],
+            "Answer: That his whole life was devoted to opposing the philosophy of nihilism while still delving deeply into individual freedom": [
+                "Question: What did Albert Camus write in his essay The Rebel into?",
+                "Question: What did he write in his essay The Rebel into?"
+            ],
+            "Answer: The Rebel": [
+                "Question: **IN-HOUSE**He wrote in his essay what that his whole life was devoted to opposing the philosophy of nihilism while still delving deeply into individual freedom?"
+            ],
+            "Answer: The philosophy of nihilism while still delving deeply into individual freedom": [
+                "Question: **IN-HOUSE**He wrote in his essay The Rebel that his whole life was devoted to opposing what?"
+            ],
+            "Answer: To opposing the philosophy of nihilism while still delving deeply into individual freedom": [
+                "Question: **IN-HOUSE**How wrote He in his essay The Rebel that his whole life was devoted?"
+            ],
+            "Answer: Yes": [
+                "Question: Did he write in his essay The Rebel that his whole life was devoted to opposing the philosophy of nihilism while still delving deeply into individual freedom?",
+                "Question: Did Albert Camus write in his essay The Rebel that his whole life was devoted to opposing the philosophy of nihilism while still delving deeply into individual freedom?"
+            ]
+        },
+        "Sentence: His views contributed to the rise of the philosophy known as absurdism.": {
+            "Answer: Albert Camus's views": [
+                "Question: Whose views contributed to the rise of the philosophy known as absurdism?",
+                "Question: What contributed to the rise of the philosophy known as absurdism?"
+            ],
+            "Answer: His views": [
+                "Question: **IN-HOUSE**What contributed to the rise of the philosophy known as absurdism?"
+            ],
+            "Answer: The rise of the philosophy known as absurdism": [
+                "Question: **IN-HOUSE**His views contributed to what?"
+            ],
+            "Answer: To the rise of the philosophy known as absurdism": [
+                "Question: What did Albert Camus's views contribute to?",
+                "Question: What did his views contribute to?"
+            ],
+            "Answer: Yes": [
+                "Question: Did his views contribute to the rise of the philosophy known as absurdism?",
+                "Question: Did Albert Camus's views contribute to the rise of the philosophy known as absurdism?"
+            ]
+        }
+    },
+    "Paragraph 2": {
+        "Sentence: Camus did not consider himself to be an existentialist despite usually being classified as a follower of it, even in his lifetime. In a 1945 interview, Camus rejected any ideological associations: \"No, I am not an existentialist.": {
+            "Answer: Camus": [
+                "Question: **IN-HOUSE**Who did not consider himself to be an existentialist despite usually being classified as a follower of it, even in his lifetime?"
+            ]
+        },
+        "Sentence: Sartre and I are always surprised to see our names linked.''": {
+            "Answer: Our names linked": [
+                "Question: What are Sartre and I always surprised to see?"
+            ],
+            "Answer: Sartre": [
+                "Question: **IN-HOUSE**Who and I are always surprised to see our names linked.''"
+            ],
+            "Answer: Sartre and I": [
+                "Question: Who are always surprised to see our names linked?"
+            ],
+            "Answer: Yes": [
+                "Question: Are Sartre and I always surprised to see our names linked?"
+            ]
+        }
+    },
+    "Paragraph 3": {
+        "Sentence: Camus was born in French Algeria to a Pied-Noir family and studied at the University of Algiers, from which he graduated in 1936.": {
+            "Answer: 1936": [
+                "Question: **IN-HOUSE**Camus was born in French Algeria to a Pied-Noir family and studied at the University of Algiers, from which he graduated in which day/month/year?"
+            ],
+            "Answer: Algeria": [
+                "Question: **IN-HOUSE**Camus was born in French which location to a Pied-Noir family and studied at the University of Algiers, from which he graduated in 1936?"
+            ],
+            "Answer: At the University of Algiers": [
+                "Question: What was Camus studied at?"
+            ],
+            "Answer: Camus": [
+                "Question: Who was born in French Algeria to a Pied-Noir family?",
+                "Question: **IN-HOUSE**Who was born in French Algeria to a Pied-Noir family and studied at the University of Algiers, from which he graduated in 1936?",
+                "Question: Who was studied at the University of Algiers?"
+            ],
+            "Answer: In French Algeria": [
+                "Question: What was Camus born in to a Pied-Noir family?",
+                "Question: Where was Camus born to a Pied-Noir family?"
+            ],
+            "Answer: Noir": [
+                "Question: **IN-HOUSE**Camus was born in French Algeria to a Pied- who family and studied at the University of Algiers, from which he graduated in 1936?"
+            ],
+            "Answer: To a Pied-Noir family": [
+                "Question: What was Camus born in French Algeria to?"
+            ],
+            "Answer: Yes": [
+                "Question: Was Camus born in French Algeria to a Pied-Noir family?",
+                "Question: Was Camus studied at the University of Algiers?"
+            ]
+        },
+        "Sentence: In 1949, Camus founded the Group for International Liaisons  to ``denounce two ideologies found in both the USSR and the USA''.": {
+            "Answer: 1949": [
+                "Question: **IN-HOUSE**In which day/month/year , Camus founded the Group for International Liaisons  to ``denounce two ideologies found in both the USSR and the USA''?"
+            ],
+            "Answer: Camus": [
+                "Question: Who founded the Group for International Liaisons to ``denounce two ideologies found in both the USSR and the USA'' in 1949?",
+                "Question: **IN-HOUSE**In 1949, who founded the Group for International Liaisons  to ``denounce two ideologies found in both the USSR and the USA''?"
+            ],
+            "Answer: For International Liaisons": [
+                "Question: What did Camus found the Group for to ``denounce two ideologies found in both the USSR and the USA'' in 1949?"
+            ],
+            "Answer: In 1949": [
+                "Question: When did Camus found the Group for International Liaisons to ``denounce two ideologies found in both the USSR and the USA''?"
+            ],
+            "Answer: The Group": [
+                "Question: What did Camus found for International Liaisons to ``denounce two ideologies found in both the USSR and the USA'' in 1949?"
+            ],
+            "Answer: Two": [
+                "Question: **IN-HOUSE**In 1949, Camus founded the Group for International Liaisons  to ``denounce how many ideologies found in both the USSR and the USA''?"
+            ],
+            "Answer: Two ideologies found in both the USSR and the USA": [
+                "Question: How many ideologies found in both the USSR and the USA did Camus found the Group for International Liaisons to ``denounce'' in 1949?",
+                "Question: What did Camus found the Group for International Liaisons to ``denounce'' in 1949?"
+            ],
+            "Answer: USA": [
+                "Question: **IN-HOUSE**In 1949, Camus founded the Group for International Liaisons  to ``denounce two ideologies found in both the USSR and the which location ''?"
+            ],
+            "Answer: Yes": [
+                "Question: Did Camus found the Group for International Liaisons to ``denounce two ideologies found in both the USSR and the USA'' in 1949?"
+            ]
+        }
+    }
+}

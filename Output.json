@@ -1,0 +1,21 @@
+{
+    "Paragraph 1": {
+        "Sentence: I just came back from the medical shop": {
+            "Answer: Back from the medical shop": [
+                "Question: **IN-HOUSE**I just came what?"
+            ],
+            "Answer: From the medical shop": [
+                "Question: What did I just come back from?"
+            ],
+            "Answer: I": [
+                "Question: Who just came back from the medical shop?"
+            ],
+            "Answer: I just": [
+                "Question: **IN-HOUSE**What came back from the medical shop?"
+            ],
+            "Answer: Yes": [
+                "Question: Did I just come back from the medical shop?"
+            ]
+        }
+    }
+}

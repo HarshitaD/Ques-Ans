@@ -1,0 +1,77 @@
+{
+    "Paragraph 1": {
+        "Sentence: Recitals": {}
+    },
+    "Paragraph 2": {
+        "Sentence: A The parties commenced living in a De Facto Relationship on  at , and continued to live in a De Facto Relationship for a period of .": {
+            "Answer: De Facto Relationship": [
+                "Question: **IN-HOUSE**A The parties commenced living in a who on  at , and continued to live in a De Facto Relationship for a period of?"
+            ]
+        }
+    },
+    "Paragraph 3": {
+        "Sentence: B The parties separated on  and are now living separately and apart, and there is no reasonable likelihood of cohabitation being resumed by the parties.": {
+            "Answer: B The parties separated on and": [
+                "Question: What are now living separately and apart?"
+            ],
+            "Answer: Yes": [
+                "Question: Are B The parties separated on and now living separately and apart?"
+            ]
+        }
+    },
+    "Paragraph 4": {
+        "Sentence: C The parties:": {}
+    },
+    "Paragraph 5": {
+        "Sentence:  have not entered into a binding superannuation agreement in respect of the respective superannuation interests of either party;": {
+            "Answer:  have not": [
+                "Question: **IN-HOUSE**What entered into a binding superannuation agreement in respect of the respective superannuation interests of either party?"
+            ],
+            "Answer: A binding superannuation agreement in respect of the respective superannuation interests of either party;": [
+                "Question: **IN-HOUSE**Have not entered into what?"
+            ]
+        }
+    },
+    "Paragraph 6": {
+        "Sentence:  intend to agree a parenting plan in respect of the children born of the De Facto Relationship; and": {
+            "Answer:  ": [
+                "Question: **IN-HOUSE**What intend to agree a parenting plan in respect of the children born of the De Facto Relationship; and?"
+            ],
+            "Answer: To agree a parenting plan in respect of the children born of the De Facto Relationship; and": [
+                "Question: **IN-HOUSE**Intend what?"
+            ]
+        }
+    },
+    "Paragraph 7": {
+        "Sentence:  intend to agree a child support agreement in respect of the children born of the De Facto Relationship.": {
+            "Answer:  ": [
+                "Question: **IN-HOUSE**What intend to agree a child support agreement in respect of the children born of the De Facto Relationship?"
+            ],
+            "Answer: To agree a child support agreement in respect of the children born of the De Facto Relationship": [
+                "Question: **IN-HOUSE**Intend what?"
+            ]
+        }
+    },
+    "Paragraph 8": {
+        "Sentence: D The parties wish to finalize all financial matters between them , and this agreement  is made under sections 90UD and 90UF of the Family Law Act 1975, respectively.": {
+            "Answer: 1975": [
+                "Question: **IN-HOUSE**D The parties wish to finalize all financial matters between them , and this agreement  is made under sections 90UD and 90UF of the Family Law Act which day/month/year , respectively?"
+            ],
+            "Answer: 90UF": [
+                "Question: **IN-HOUSE**D The parties wish to finalize all financial matters between them , and this agreement  is made under sections 90UD and how many of the Family Law Act 1975, respectively?"
+            ],
+            "Answer: The Family Law Act": [
+                "Question: **IN-HOUSE**D The parties wish to finalize all financial matters between them , and this agreement  is made under sections 90UD and 90UF of which law 1975, respectively?"
+            ],
+            "Answer: This agreement (and the associated Separation Declaration)": [
+                "Question: What is made under sections 90UD and 90UF of the Family Law Act 1975, respectively?"
+            ],
+            "Answer: Under sections 90UD and 90UF of the Family Law Act 1975, respectively": [
+                "Question: What is this agreement (and the associated Separation Declaration) made under?"
+            ],
+            "Answer: Yes": [
+                "Question: Is this agreement (and the associated Separation Declaration) made under sections 90UD and 90UF of the Family Law Act 1975, respectively?"
+            ]
+        }
+    }
+}
