@@ -18,7 +18,7 @@ w_words = ['when','who','what','why','how','where']
 import json
 from collections import defaultdict
 import pandas as pd
-from flask import Flask, request
+from flask import Flask,render_template,request,redirect
 import re
 import io
 from fuzzywuzzy import process, fuzz
@@ -597,7 +597,6 @@ def get_questions_text():
     return str_
 
 
-from flask import Flask,render_template,request,redirect
 app_lulu = Flask(__name__)
 
 app_lulu.vars={}

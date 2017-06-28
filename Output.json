@@ -1,20 +1,18 @@
 {
     "Paragraph 1": {
-        "Sentence: I just came back from the medical shop": {
-            "Answer: Back from the medical shop": [
-                "Question: **IN-HOUSE**I just came what?"
+        "Sentence: John knows that Marie does not know.": {
+            "Answer: John": [
+                "Question: Who knows that Marie does not know?",
+                "Question: **IN-HOUSE**Who knows that Marie does not know?"
             ],
-            "Answer: From the medical shop": [
-                "Question: What did I just come back from?"
+            "Answer: Marie": [
+                "Question: **IN-HOUSE**John knows that who does not know?"
             ],
-            "Answer: I": [
-                "Question: Who just came back from the medical shop?"
-            ],
-            "Answer: I just": [
-                "Question: **IN-HOUSE**What came back from the medical shop?"
+            "Answer: That Marie does not know": [
+                "Question: What does John know?"
             ],
             "Answer: Yes": [
-                "Question: Did I just come back from the medical shop?"
+                "Question: Does John know that Marie does not know?"
             ]
         }
     }
