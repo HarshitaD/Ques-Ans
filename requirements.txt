@@ -1,7 +1,7 @@
 click==6.7
 cloudpickle==0.2.2
 cymem==1.31.2
-Flask==0.12.2
+Flask==1.0
 gunicorn==19.1.0
 itsdangerous==0.24
 Jinja2==2.9.6
