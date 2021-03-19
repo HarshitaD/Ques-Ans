@@ -4,7 +4,7 @@ cymem==1.31.2
 Flask==0.12.2
 gunicorn==19.1.0
 itsdangerous==0.24
-Jinja2==2.9.6
+Jinja2==2.11.3
 MarkupSafe==0.23
 murmurhash==0.26.4
 nltk==3.2.4
